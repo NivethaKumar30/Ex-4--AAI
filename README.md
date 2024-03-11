@@ -2,6 +2,7 @@
 <H3>ENTER YOUR REGISTER NO.212222230102</H3>
 <H3>EX. NO.4</H3>
 <H3>DATE:11/3/24</H3>
+
 <H1 ALIGN =CENTER> Implementation of Hidden Markov Model</H1>
 
 ## Aim: 
@@ -53,12 +54,12 @@ print("The most likely sequence of weather states is:",most_likely_sequence)
 ```
 ## Output:
 
-##OBSERVED SEQUENCE:
+OBSERVED SEQUENCE:
 
 
 ![Screenshot 2024-03-11 142732](https://github.com/NivethaKumar30/Ex-4--AAI/assets/119559844/4faea654-691c-4a7f-bdde-7d5e150e5b6c)
 
-##PROBABILITY OF OBSERVED SEQUENCE:
+PROBABILITY OF OBSERVED SEQUENCE:
 
 
 ![Screenshot 2024-03-11 142742](https://github.com/NivethaKumar30/Ex-4--AAI/assets/119559844/cb80d5ca-9c4f-422a-9e34-41ecca20770c)
